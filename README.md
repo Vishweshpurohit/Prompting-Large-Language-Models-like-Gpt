@@ -4,19 +4,66 @@ The idea of this project was to figure out different methods of prompt engineeri
 
 
 ## Table of Contents
-|Executive Summary	| | |
-........................
-|1.| Introduction and Project Objective	|4|
-|2.|Data Introduction/Sourcing	|4|
-|3.|Data Preparation|5|
-|4.|Data Visualization|5|
-|4.1 |Distribution of languages	|5|
-|4.2 |Distribution of Nulls after running both the models	|6|
-|4.3 |Distribution of NA, based on the questions	|7|
-|5. |Data Analysis	|7|
-|6. |Generalization/Explanation	|9|
-|7. |Future Scope	|9|
-|8. |Conclusions	|9|
+# Project Title
+
+## Executive Summary
+
+...
+
+## Table of Contents
+1. [Introduction and Project Objective](#introduction-and-project-objective)
+2. [Data Introduction/Sourcing](#data-introductionsourcing)
+3. [Data Preparation](#data-preparation)
+4. [Data Visualization](#data-visualization)
+    1. [Distribution of languages](#distribution-of-languages)
+    2. [Distribution of Nulls after running both the models](#distribution-of-nulls-after-running-both-the-models)
+    3. [Distribution of NA, based on the questions](#distribution-of-na-based-on-the-questions)
+5. [Data Analysis](#data-analysis)
+6. [Generalization/Explanation](#generalizationexplanation)
+7. [Future Scope](#future-scope)
+8. [Conclusions](#conclusions)
+
+## Introduction and Project Objective
+
+...
+
+## Data Introduction/Sourcing
+
+...
+
+## Data Preparation
+
+...
+
+## Data Visualization
+
+### Distribution of languages
+
+...
+
+### Distribution of Nulls after running both the models
+
+...
+
+### Distribution of NA, based on the questions
+
+...
+
+## Data Analysis
+
+...
+
+## Generalization/Explanation
+
+...
+
+## Future Scope
+
+...
+
+## Conclusions
+
+...
 
  
 Executive Summary
