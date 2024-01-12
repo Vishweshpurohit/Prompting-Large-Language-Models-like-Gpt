@@ -2,26 +2,20 @@
 
 The idea of this project was to figure out different methods of prompt engineering, the project was done with the help of Data 4 Good case competition by Purdue and their help in accessing these wonderful Large Language Models. Below is the project detials
 
-Data 4 good project
 
-Team: Data Dreams
-
-Vishwesh Purohit: A20399844
-Xue Yang: A20224593
-Sai Chandrika: A20344789 
-Table of Contents
-Executive Summary	3
-1. Introduction and Project Objective	4
-2. Data Introduction/Sourcing	4
-3. Data Preparation	5
-4. Data Visualization	5
-4.1 Distribution of languages	5
-4.2 Distribution of Nulls after running both the models	6
-4.3 Distribution of NA, based on the questions	7
-5. Data Analysis	7
-6. Generalization/Explanation	9
-7. Future Scope	9
-8. Conclusions	9
+# Table of Contents
+|Executive Summary	|
+|1.| Introduction and Project Objective	|4|
+|2.|Data Introduction/Sourcing	|4|
+|3.|Data Preparation|5|
+|4.|Data Visualization|5|
+|4.1 |Distribution of languages	|5|
+|4.2 |Distribution of Nulls after running both the models	|6|
+|4.3 |Distribution of NA, based on the questions	|7|
+|5. |Data Analysis	|7|
+|6. |Generalization/Explanation	|9|
+|7. |Future Scope	|9|
+|8. |Conclusions	|9|
 
  
 Executive Summary
