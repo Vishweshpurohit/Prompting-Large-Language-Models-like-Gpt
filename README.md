@@ -56,7 +56,7 @@ We see that almost 1/6th of the data is not in English, this has to be treated o
  
 Figure 1 Languages for English and Non-English
 
-![Picture1.png]([images/example.png](https://github.com/Vishweshpurohit/Prompting-Large-Language-Models-like-Gpt/blob/main/Picture1.png))
+![images/example.png](https://github.com/Vishweshpurohit/Prompting-Large-Language-Models-like-Gpt/blob/main/Picture1.png))
 
 
 ### Distribution of Nulls after running both the models
