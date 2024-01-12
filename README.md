@@ -3,8 +3,9 @@
 The idea of this project was to figure out different methods of prompt engineering, the project was done with the help of Data 4 Good case competition by Purdue and their help in accessing these wonderful Large Language Models. Below is the project detials
 
 
-# Table of Contents
-|Executive Summary	|
+## Table of Contents
+|Executive Summary	| | |
+........................
 |1.| Introduction and Project Objective	|4|
 |2.|Data Introduction/Sourcing	|4|
 |3.|Data Preparation|5|
