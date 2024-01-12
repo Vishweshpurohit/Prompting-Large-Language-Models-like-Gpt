@@ -3,25 +3,20 @@
 The idea of this project was to figure out different methods of prompt engineering, the project was done with the help of Data 4 Good case competition by Purdue and their help in accessing these wonderful Large Language Models. Below is the project detials
 
 
-## Table of Contents
-# Project Title
-
-## Executive Summary
-
-...
 
 ## Table of Contents
-1. [Introduction and Project Objective](#introduction-and-project-objective)
-2. [Data Introduction/Sourcing](#data-introductionsourcing)
-3. [Data Preparation](#data-preparation)
-4. [Data Visualization](#data-visualization)
+1. [Executive Summary](#executive-Summary)
+2. [Introduction and Project Objective](#introduction-and-project-objective)
+3. [Data Introduction/Sourcing](#data-introductionsourcing)
+4. [Data Preparation](#data-preparation)
+5. [Data Visualization](#data-visualization)
     1. [Distribution of languages](#distribution-of-languages)
     2. [Distribution of Nulls after running both the models](#distribution-of-nulls-after-running-both-the-models)
     3. [Distribution of NA, based on the questions](#distribution-of-na-based-on-the-questions)
-5. [Data Analysis](#data-analysis)
-6. [Generalization/Explanation](#generalizationexplanation)
-7. [Future Scope](#future-scope)
-8. [Conclusions](#conclusions)
+6. [Data Analysis](#data-analysis)
+7. [Generalization/Explanation](#generalizationexplanation)
+8. [Future Scope](#future-scope)
+9. [Conclusions](#conclusions)
 
 ## Introduction and Project Objective
 
