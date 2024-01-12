@@ -17,6 +17,11 @@ The idea of this project was to figure out different methods of prompt engineeri
 7. [Generalization/Explanation](#generalizationexplanation)
 8. [Future Scope](#future-scope)
 9. [Conclusions](#conclusions)
+    
+## Executive Summaries
+
+...
+
 
 ## Introduction and Project Objective
 
